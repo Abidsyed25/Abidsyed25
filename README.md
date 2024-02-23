@@ -1,5 +1,5 @@
 # 💫 About Me:
-Fourth year computer science undergraduate <br>Open Source Enthusiast <br>MERN and Java Developer<br>
+Fourth year computer science undergraduate <br>Open Source Enthusiast <br> MERN and Java Developer<br>
 
 
 ## 🌐 Socials:
